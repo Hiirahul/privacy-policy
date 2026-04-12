@@ -2,7 +2,7 @@
 
 **Privacy Policy & Terms of Use**
 
-Effective Date: 06-april-1994
+Effective Date: 06-april-2026
 
 ---
 
@@ -46,7 +46,6 @@ We use the collected information to:
 
 * Provide and maintain the game
 * Save your progress and scores
-* Enable leaderboard functionality
 * Improve gameplay experience
 * Analyze performance and fix bugs
 
@@ -54,27 +53,13 @@ We use the collected information to:
 
 ## 3. Third-Party Services
 
-We use third-party services to operate the app:
-
-* Firebase (authentication, database, analytics)
-* Google Sign-In (user authentication)
-* Google AdMob (advertising services)
-
-These services may collect and process data according to their respective privacy policies.
+No services collect and process data according to their respective privacy policies.
 
 ---
 
 ## 4. Advertising
 
-Our app displays ads using Google AdMob.
-AdMob may collect:
-
-* Device identifiers
-* Usage data
-
-This helps in showing relevant advertisements.
-
-Learn more: https://policies.google.com/technologies/ads
+No ads
 
 ---
 
@@ -99,8 +84,8 @@ However, no system is completely secure, and we cannot guarantee absolute securi
 
 ## 7. Children's Privacy
 
-This app is not intended for children under the age of 13.
-We do not knowingly collect data from children.
+This app is also suited for children under the age of 13.
+We do not knowingly collect data.
 
 If you believe a child has provided personal data, please contact us for removal.
 
@@ -156,15 +141,7 @@ You agree to:
 
 ---
 
-## 3. User Accounts
-
-* You may log in using Google Sign-In
-* You are responsible for maintaining your account security
-* We are not responsible for unauthorized access due to user negligence
-
----
-
-## 4. Game Content
+## 3. Game Content
 
 All content in the app (design, graphics, logic, gameplay) is owned by us.
 
@@ -178,15 +155,6 @@ You may not:
 without permission.
 
 ---
-
-## 5. Advertisements
-
-The app includes third-party advertisements.
-
-We are not responsible for:
-
-* Content of ads
-* External links or services
 
 ---
 
